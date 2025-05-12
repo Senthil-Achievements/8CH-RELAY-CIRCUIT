@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=OP3 Pin=LED2-2
+Removed Pin From Net: NetName=OP4 Pin=LED3-2
+Removed Pin From Net: NetName=OP5 Pin=LED4-2
+Removed Pin From Net: NetName=OP6 Pin=LED5-2
+Removed Pin From Net: NetName=OP8 Pin=LED6-2
+Removed Pin From Net: NetName=OP7 Pin=LED7-2
+Removed Pin From Net: NetName=OP2 Pin=LED8-2
+Removed Pin From Net: NetName=OP1 Pin=LED9-2
+Removed Pin From Net: NetName=OP3 Pin=Relay2-5
+Removed Pin From Net: NetName=OP4 Pin=Relay3-5
+Removed Pin From Net: NetName=OP5 Pin=Relay4-5
+Removed Pin From Net: NetName=OP6 Pin=Relay5-5
+Removed Pin From Net: NetName=OP8 Pin=Relay6-5
+Removed Pin From Net: NetName=OP7 Pin=Relay 8-5
+Removed Pin From Net: NetName=OP1 Pin=Relay9-5
+Removed Pin From Net: NetName=OP2 Pin=Relay-5
+Added Pin To Net: NetName=OP1 Pin=LED2-2
+Added Pin To Net: NetName=OP2 Pin=LED3-2
+Added Pin To Net: NetName=OP3 Pin=LED4-2
+Added Pin To Net: NetName=OP4 Pin=LED5-2
+Added Pin To Net: NetName=OP5 Pin=LED6-2
+Added Pin To Net: NetName=OP6 Pin=LED7-2
+Added Pin To Net: NetName=OP7 Pin=LED8-2
+Added Pin To Net: NetName=OP1 Pin=Relay2-5
+Added Pin To Net: NetName=OP2 Pin=Relay3-5
+Added Pin To Net: NetName=OP3 Pin=Relay4-5
+Added Pin To Net: NetName=OP4 Pin=Relay5-5
+Added Pin To Net: NetName=OP5 Pin=Relay6-5
+Added Pin To Net: NetName=OP6 Pin=Relay 8-5
+Added Pin To Net: NetName=OP7 Pin=Relay-5
+Added Pin To Net: NetName=OP9 Pin=LED9-2
+Added Pin To Net: NetName=OP9 Pin=Relay9-5
+Added Net: Name=OP9

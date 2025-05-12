@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\senth\OneDrive\Documents\internship\projects\8CH_RELAY_CARD\8CH_RELAY_CARD.PcbDoc
+Date         : 06-05-2025
+Time         : 13:40:52
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 0.00%
+    Connections, 82
+    Connections routed, 0
+    Connections remaing, 82
+count : 4

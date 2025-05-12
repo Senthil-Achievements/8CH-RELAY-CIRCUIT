@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetLED8_1 Pin=R7-1
+Removed Pin From Net: NetName=NetLED7_1 Pin=R8-1
+Removed Pin From Net: NetName=NetP3_1 Pin=Relay2-1
+Removed Pin From Net: NetName=NetP3_2 Pin=Relay2-2
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R4 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R6 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R7 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R8 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R9 Old DesignItemId=Res3 New DesignItemId=Res1
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R4 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R8 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R9 Old Footprint=RESC1608L New Footprint=AXIAL-0.3
+Change Component Comment : Designator=R1 Old Comment=Res3 New Comment=Res1
+Change Component Comment : Designator=R2 Old Comment=Res3 New Comment=Res1
+Change Component Comment : Designator=R3 Old Comment=Res3 New Comment=Res1
+Change Component Comment : Designator=R4 Old Comment=Res3 New Comment=Res1
+Change Component Comment : Designator=R5 Old Comment=Res3 New Comment=Res1
+Change Component Comment : Designator=R6 Old Comment=Res3 New Comment=Res1
+Change Component Comment : Designator=R7 Old Comment=Res3 New Comment=Res1
+Change Component Comment : Designator=R8 Old Comment=Res3 New Comment=Res1
+Change Component Comment : Designator=R9 Old Comment=Res3 New Comment=Res1
+Added Pin To Net: NetName=NetLED7_1 Pin=R7-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R8-1
+Added Pin To Net: NetName=NetP3_2 Pin=Relay2-1
+Added Pin To Net: NetName=NetP3_1 Pin=Relay2-2

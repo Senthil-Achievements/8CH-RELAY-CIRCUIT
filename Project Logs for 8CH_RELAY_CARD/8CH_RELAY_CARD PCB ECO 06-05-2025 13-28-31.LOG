@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=U1-10
+Change Component DesignItemId : Designator=U1 Old DesignItemId=ULN2803LW New DesignItemId=ULN2803A
+Change Component Comment : Designator=U1 Old Comment=ULN2803LW New Comment=ULN2803A
+Added Room: Name=8CH_RELAY_CARD
