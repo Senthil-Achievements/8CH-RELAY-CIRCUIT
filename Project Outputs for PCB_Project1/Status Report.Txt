@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[brideg wave pcb.TXT]
+   Generated File[brideg wave pcb.DRL]
+   Generated File[brideg wave pcb.LDP]
+   Generated File[brideg wave pcb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:17:44 On 12-05-2025

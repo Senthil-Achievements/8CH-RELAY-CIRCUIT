@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: brideg wave pcb.PcbDoc   12-05-2025  11:17:43
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : brideg wave pcb.TXT
+EIA File   : brideg wave pcb.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.85mm (33.465mil)       Round          2                7.62 mm (0.30 Inch)
+T2        0.9mm (35.433mil)        Round          4                51.54 mm (2.03 Inch)
+T3        1mm (39.37mil)           Round          7                26.39 mm (1.04 Inch)
+T4        1.2mm (47.244mil)        Round          8                57.58 mm (2.27 Inch)
+T5        1.27mm (50mil)           Round          2                2.54 mm (0.10 Inch)
+---------------------------------------------------------------------------
+Totals                                            23               145.68 mm (5.74 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
